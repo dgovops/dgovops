@@ -68,5 +68,3 @@ Desenvolvedor Full Stack com experiência em back-end **Java (Spring Boot)**, **
   <img height="28" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img height="28" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-## GitHub stats
